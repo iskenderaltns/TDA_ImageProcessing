@@ -1,5 +1,6 @@
 # TDA_ImageProcessing
  Image processing with ParaView
+ 
 **Pipeline description**:
 This example processes a grayscale image  to generate a segmentation. We will construct the segmentation from the image gradient.
 
